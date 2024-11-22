@@ -5,3 +5,4 @@
 - 17 nov- linked lists questions
 - 18 nov- stacks and queues intro
 - 21 nov- revising previously done ques
+- 22 nov= advanced ques on arrays
